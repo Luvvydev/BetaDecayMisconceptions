@@ -6,6 +6,13 @@
 
 SFML 3 visualization designed as a learning tool.
 
+## What this is
+
+**Misconception (common shortcut):** “The (anti)neutrino just spins opposite the electron, so spin balances.”
+
+**What this tool shows:** That shortcut is not sufficient. Even in a toy 1D picture, **spins alone often do not sum to the initial angular momentum**, so some **additional angular momentum** must appear (represented here as an “orbital” placeholder swirl).
+
+
 ## Modes
 - 1: Spin only (deliberately oversimplified)
 - 2: Spin + motion (helicity)
