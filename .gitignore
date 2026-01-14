@@ -1,0 +1,24 @@
+﻿# Build outputs
+/build/
+/out/
+/bin/
+/Release/
+/Debug/
+
+# CMake + Visual Studio generated
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.dir/
+x64/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+backup/
