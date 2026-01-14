@@ -1,4 +1,8 @@
-﻿# BetaDecayViz
+<p align="center">
+  <img src="betadecay.PNG" alt="Beta decay misconceptions visualization" width="800">
+</p>
+ 
+ # BetaDecayViz
 
 SFML 3 visualization designed as a learning tool.
 
